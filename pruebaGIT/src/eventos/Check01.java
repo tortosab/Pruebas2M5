@@ -30,7 +30,7 @@ public class Check01 extends JFrame {
          this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
      } 
     public static void main(String args[]) {
-         System.out.println("Starting M4p4_01...");
+         System.out.println("Començant");
          Check01 mainFrame = new Check01();
  
           mainFrame.setSize(400, 100);
