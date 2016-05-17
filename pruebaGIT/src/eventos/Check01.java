@@ -30,12 +30,13 @@ public class Check01 extends JFrame {
          this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
      } 
     public static void main(String args[]) {
-         System.out.println("Començant 55");
+
          Check01 mainFrame = new Check01();
  
           mainFrame.setSize(400, 100);
          mainFrame.setTitle("Checkboxes"); 
           mainFrame.setVisible(true);
+          System.out.println("Començant 55");
      }
  }
  
